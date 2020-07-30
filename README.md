@@ -1,3 +1,2 @@
 # code_by_celia
-## celia's code for codewords
-*italic* **bold**
+## celia's code for code+words
