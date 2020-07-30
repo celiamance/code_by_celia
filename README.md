@@ -1,2 +1,2 @@
-# code_by_celia
+# CODE+WORDS
 ## celia's code for code+words
