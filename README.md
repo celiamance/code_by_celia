@@ -1,2 +1,3 @@
 # code_by_celia
-hello all
+## celia's code for codewords
+*italic* **bold**
