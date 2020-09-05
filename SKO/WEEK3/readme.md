@@ -9,4 +9,4 @@ During our third class we began looking at the scope of work that fits into the 
 <img src="corevalues.jpg">
 
 After class I found an example of digital poetry, [Core Values](https://poetry.codetext.net/core-values/) by [Benjamin Laird](https://bl.id.au/), a PhD candidate at RMIT. He wrote Core Values in response to Dorothea Mackellar’s poem, [My Country](https://www.dorotheamackellar.com.au/archive/mycountry.htm). The poem, Core Values, is displayed fragmented and animated in a box made from maps of Australia. The format is intended to make the viewer feel claustrophobic, a juxtaposition to the idyllic ‘land of sweeping plains’ Mackellar describes.
-Having studied My Country in primary school, I remember it fondly, but it definitely perpetuates a romanticised perspective of Australia, that is criticized in Laird’s poem.
+Having studied My Country in primary school, I remember it fondly, but it definitely perpetuates a romanticised perspective of Australian history that is criticized in Laird’s poem.
