@@ -7,13 +7,15 @@ During midsem break I wanted to commit a lot of time to developing my major proj
 <img src="letters.png">
 
 [‘The Dream Life of Letters’](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters.html) by Brian Kim Stefans cleverly uses animation to visualise different words in alphabetical order. Stefans describes it as a project ‘based on a text by Rachel Blau DuPlessis, that attempts to explore the ground between classic concrete poetry, avant-garde feminist practice, and "ambient" poetics.’ I really like the animations create a captivating visual and somewhat reference the meaning or connotations of the word.
-Watch it [here](https://www.youtube.com/watch?v=ZSnq0nMAQQc)
+
+Watch it [here](https://www.youtube.com/watch?v=ZSnq0nMAQQc).
 
 <img src="whisper1.jpg">
 <img src="whisper2.jpg">
 
 [‘Whispering Galleries’](https://www.whisperinggalleries.com/) by Amaranth Borsuk and Brad Bouse ‘is an interactive digital artwork that uses the Leap Motion gestural controller to allow visitors to interact with a historical diary.’ By tracking the user’s hand movements, the work transforms to reveal poems constructed from the original text in the anonymous 1858 diary. I really loved the interaction with this work that does not rely on physically typing or concrete actions, but rather a more gentle, detached movement from your ‘digital body’.
-Watch an interview with the creaters [here](https://vimeo.com/104981357)
+
+Watch an interview with the creaters [here](https://vimeo.com/104981357).
 
 <img src="network.jpg">
 
