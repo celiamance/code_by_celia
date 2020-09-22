@@ -21,3 +21,10 @@ Watch an interview with the creaters [here](https://vimeo.com/104981357).
 
 [‘Networked Optimization’](https://silviolorusso.com/work/networked-optimization/) by Silvio Lorusso & Sebastian Schmieg showcases ‘crowdsourced versions of popular self-help books’. The only text visible on the page ‘is the so-called popular highlights – the passages that were underlined by many Kindle users – together with the amount of highlighters. Each time a passage is underlined, it is automatically stored in Amazon’s data centers.’ Only the most commonly valuable and impactful text remains creating a ‘highlight-reel’ of the most poignant parts of each book. I find this work to be fascinating, especially because it employs existing data and contains it in a physical format.
 
+## + sketch of the week
+
+<img src="circlesound.jpg">
+
+Following Karen's tutorial about adding in the p5.js sound library, I watched some more The Coding Train video to cement my knowledge.
+I followed [this tutorial](https://www.youtube.com/watch?v=h_aTgOl9J5I&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=10&ab_channel=TheCodingTrain) and made my [own radial volume graph](https://celiamance.github.io/codewords/SKO/WEEK7/testingsongcircle) to a jazz song. The outcome was stangely hypnotic and calming - I really enjoyed making it!
+
