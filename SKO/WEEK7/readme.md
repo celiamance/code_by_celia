@@ -1,4 +1,4 @@
-# code+words / week 7
+# code+words / midsem break & week 7
 
 ## + major project research
 
