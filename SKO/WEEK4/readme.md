@@ -13,3 +13,9 @@ To begin our fourth week of class we started with another power hour of code wit
 <img src="clubpenguinedit.jpg">
 
 Out group also met up via FaceTime quite a few times throughout the past few weeks to organise and record our Club Penguin rereading. We also worked on editing our allocated sections of the video.
+
+## + sketch of the week
+
+<img src="shadow.jpg">
+
+To practice uploading and using a font in Processing, I made a variation of an early sketch, rainbow circles. [This version](https://celiamance.github.io/codewords/SKO/WEEK4/shadow) has the word 'shadow' using the Glyph World typeface - Desert, following your mouse. I used a slightly transparent background so the words slowly fade and also added in a clear command under a key pressed function.
