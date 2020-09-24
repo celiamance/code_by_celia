@@ -1,3 +1,8 @@
+//started from a sketch we did in class with Karen
+//this is only very preliminary and I have basically only managed to print the text on the screen
+//my goal is to have the text appear as if it were being typed
+//eventually I would like the text to appear in a randomly generated order and then returns to the 'correct' order once the mouse is moved or some other function
+
 var words;
 function preload() {
 }
