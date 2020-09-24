@@ -1,3 +1,6 @@
+//created from Karen's amazing tutorial
+// next I am trying to work out how to add in a limit to the X value and add in a y value so the text doesn't run off the page, but returns and continues to print the text
+
 function setup() {
 createCanvas(windowWidth, windowHeight);
 background(0);
