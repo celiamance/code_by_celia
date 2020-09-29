@@ -6,6 +6,11 @@ Read about V : Vniverse [here](http://www.stephaniestrickland.com/vniverse)
 
 Watch a video of the online format [here](https://www.youtube.com/watch?v=TYT_5nD7zt8)
 
+<img src="IMG_3190.jpeg">
+<img src="IMG_3191.jpeg">
+
+here are some photos from my paper prototype - my gif was too big to upload :(
+
 To continue working on my major project I have selected my preferred concept and further developed my paper prototype. I decided to choose my oscillating words concept as I thought it had more potential for development than my major theme visualisation. While continuing to experiment with more paper prototypes, I decided that each word would reveal an image of an eye when you hovered your mouse over it in addition to oscillating between each set. The print related words will remain static and the digital ones will be animated. I initially had sketches using both transforming imagery and words, however, I kept coming back to the idea of user experience that Hayles discusses, so I decided to represent this by using an eye. 
 
 This project ‘exists in print and on the Web as one work. In print, it is an invertible book with two beginnings…; online, it has two additional parts...’ Hayles uses the terms from my quote to describe the experience of interacting with the physical and digital portions of Strickland’s work interchangeably, with each slash being representative of ‘the space between the print book and digital Web site.’ I found the articulation of this syngenetic process using juxtaposing expressions to be really insightful. Largely because it reinforces the primary notion of the entire reading – that materiality is individual to and dependent on the characteristics of a text from which they are intended to create meaning. 
