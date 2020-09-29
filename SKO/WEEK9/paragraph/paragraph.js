@@ -10,10 +10,9 @@ var words = "Although these structures occupy the same space, they organise it d
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(255);
   textSize(24);
   noStroke();
-  textFont("monospace");
+  textFont("Monospace");
   textAlign(LEFT);
   fill(0,0,255);
   textLeading(50);
