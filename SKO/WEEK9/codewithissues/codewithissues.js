@@ -28,3 +28,6 @@ function draw() {
   }
  }
 }
+
+//I was looking over it with Ray as he is trying to achieve something similar and the only other solution we came up with was breaking the text manually and repeating the code for each section 
+//- but I don't think that would work when I implement random as well.
