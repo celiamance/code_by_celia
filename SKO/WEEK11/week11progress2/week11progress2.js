@@ -59,17 +59,17 @@ else {
 }
 }
 
-class Organise {
- constructor(xPos, yPos, wordPos){
- this.xPos = textWidth(shuffwords[w])+spacesize;
- this.yPos = 
- }
-}
+// class Organise {
+//  constructor(xPos, yPos, wordPos){
+//  this.xPos = textWidth(shuffwords[w])+spacesize;
+//  this.yPos = 
+//  }
+// }
 
-  sorted(){
+//   sorted(){
     
-  }
+//   }
   
-  shuffled(){
+//   shuffled(){
     
-  }
+//   }
