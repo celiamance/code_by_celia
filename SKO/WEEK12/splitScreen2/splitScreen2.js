@@ -121,5 +121,13 @@ else {
 function mousePressed() {
   type.play();
   buzz.play(); 
+  if (type.isPlaying){
+   type.pause();
+   //type.noLoop();
+  }
+   if (buzz.isPlaying){
+   buzz.pause();
+   //buzz.noLoop();
+  }
   displayMessage = false;
 }
