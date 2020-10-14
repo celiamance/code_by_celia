@@ -136,6 +136,5 @@ function windowResized(){
   typesize = (map(width,300,1650,8,40));
   spacesize = 10*multiplier;
   linesize = 50*multiplier;
-  shuffwords = shuffle(words);
   textSize(typesize*multiplier);
 }
