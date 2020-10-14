@@ -33,7 +33,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background(245);
   multiplier = map(width,200,1800,0.25,1);
-  typesize = (map(width,300,1650,8,40));
+  typesize = (map(width,300,1650,15,40));
   spacesize = 10*multiplier;
   linesize = 40*multiplier;
   shuffwords = shuffle(words);
@@ -133,7 +133,7 @@ function mousePressed() {
 function windowResized(){
   resizeCanvas(windowWidth, windowHeight);
   multiplier = map(width,200,1800,0.25,1);
-  typesize = (map(width,300,1650,8,40));
+  typesize = (map(width,300,1650,15,40));
   spacesize = 10*multiplier;
   linesize = 50*multiplier;
   textSize(typesize*multiplier);
