@@ -32,10 +32,10 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(245);
-  multiplier = map(width,200,1800,0.25,1);
-  typesize = (map(width,300,1650,15,40));
-  spacesize = 10*multiplier;
-  linesize = 40*multiplier;
+  multiplier = map(width,300,1800,0.25,1);
+  typesize = (map(width,600,1650,30,40));
+  spacesize = 17*multiplier;
+  linesize = 48*multiplier;
   shuffwords = shuffle(words);
   textSize(typesize*multiplier);
   textFont(font);
@@ -130,11 +130,17 @@ function mousePressed() {
   displayMessage = false;
 }
 
+function touchStarted() {
+  type.play();
+  buzz.play();
+  displayMessage = false;
+}
+
 function windowResized(){
   resizeCanvas(windowWidth, windowHeight);
-  multiplier = map(width,200,1800,0.25,1);
-  typesize = (map(width,300,1650,15,40));
-  spacesize = 10*multiplier;
-  linesize = 50*multiplier;
+  multiplier = map(width,300,1800,0.25,1);
+  typesize = (map(width,600,1650,30,40));
+  spacesize = 17*multiplier;
+  linesize = 48*multiplier;
   textSize(typesize*multiplier);
 }
