@@ -8,7 +8,7 @@ var x, y;
 var font;
 var type;
 var buzz;
-var margin = 50; //space on either side
+var margin = 50;
 var topmargin = 40;
 var para1 = ('Although these structures occupy the same space, they organise it differently  and thereby create mutating patterns of signification. Translated into a digital medium, Vs line sequences reorganise yet again, using the flexibility offered by appearing and disappearing text to create a possibility space even greater than the print book. When read alongside each other, the print and electronic texts offer a remarkably rich matrix in which to explore the varying dynamics of freedom and constraint/ produced performed by durable marks and flickering signifiers.');
 var para = ('although these structures occupy the same space , they organise it differently and thereby create mutating patterns of signification . translated into a digital medium Vs line sequences reorganise yet again using the flexibility offered by appearing and disappearing text to create a possibility space even greater than the print book . when read alongside each other the print and electronic texts offer a remarkably rich matrix in which to explore the varying dynamics of freedom and constraint / produced performed by durable marks and flickering signifiers .');
