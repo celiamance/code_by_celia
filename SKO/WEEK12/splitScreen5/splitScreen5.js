@@ -124,13 +124,13 @@ else {
   }
   }
 
-function mousePressed() {
+function touchStarted() {
   type.play();
   buzz.play();
   displayMessage = false;
 }
 
-function touchStarted() {
+function mousePressed() {
   type.play();
   buzz.play();
   displayMessage = false;
