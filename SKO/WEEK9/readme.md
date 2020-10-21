@@ -151,4 +151,59 @@ With help from Ray we got the typing effect to work properly in [this sketch](ht
 I'm now trying to work on adding a right side margin which is proving harder than I initally thought, and imputting the random function, which also doesn't seem to work easily! I changed to my new idea both in hopes of creating a more text oriented outcome and also a more achievable outcome, but I'm learning that often things are far more complicated than you expect in code!!
 
 
+## + progress!
+
+<img src="randomtype.jpg">
+
+```
+// shuffle function added by k.donnachie
+
+var font;
+var margin = 60;
+var topmargin = 50;
+var para = ('although these structures occupy the same space they organise it differently and thereby create mutating patterns of signification translated into a digital medium Vs line sequences reorganise yet again using the flexibility offered by appearing and disappearing text to create a possibility space even greater than the print book when read alongside each other the print and electronic texts offer a remarkably rich matrix in which to explore the varying dynamics of freedom and constraint produced performed by durable marks and flickering signifiers');
+var words = para.split(' ');
+var wx, wy;
+var typesize = 24;
+var spacesize = 25;
+var linesize = 50;
+
+function preload() {
+  font = loadFont('data/CourierStd-Bold.otf');
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  background(255);
+  shuffwords = shuffle(words);
+  textSize(typesize);
+  textFont(font);
+}
+
+function draw() {
+  background(255);
+  fill(0,0,255);
+  wx = margin;
+  wy = 50;
+  var extraSpace = 0;
+  for (let w=0; w<words.length; w++) {
+    if (wx+textWidth(shuffwords[w])<=width-margin){
+    noStroke();
+  if (frameCount > 30 * w) {
+    text(shuffwords[w], wx, wy+50);
+}
+  wx+=textWidth(shuffwords[w])+spacesize;
+}
+else {
+  wx=margin;
+  wy+=linesize;
+  w--;
+  }
+}
+}
+```
+
+After struggling some more with the random words and constraining the text along the x axis, Karen helped me (again, sorry) to make it work! She added in a shuffle function and I adapted her [sample sketch on split](https://simandy.github.io/codewords/processing/TextToPoints_Para_appearOverTime/) to have the same appearing text that is constrained by adaptive window boundaries.
+
+
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK8/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK10/)
