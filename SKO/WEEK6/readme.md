@@ -45,6 +45,31 @@ During this week’s power hour of code with Karen we learnt how to print blocks
 
 <img src="letters.jpg">
 
+```
+const letters = 'abcdefghijklmnopqrstuvwxyz0123456789ABCDEFHIJKLMNOPQRSTUVWXYZ{}:;<>,.?!/';
+var rand, listLength;
+function setup() {
+createCanvas(windowWidth, windowHeight);
+background(255);
+textSize(24);
+noStroke();
+textFont("Times");
+//frameRate(5);
+listLength=letters.length;
+}
+
+
+function draw() {
+rand = int(random(0, listLength-1));
+fill(0);
+textSize(random(5,50));
+text (letters[rand], random(width), random(height));
+//background(255,1);
+fill(255);
+ellipse(mouseX, mouseY, 150,150);
+}
+```
+
 This week was a busy coding week! We also created [this sketch](https://celiamance.github.io/codewords/SKO/WEEK6/whiteboard_letters/) in class using the random function to make different letters appear in varying sizes across the canvas. Karen also added in a neat white brush tool like a whiteboard to erase some of the letters that were popping up!
 
 ## + sketch of the week
