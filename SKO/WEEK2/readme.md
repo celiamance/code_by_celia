@@ -17,3 +17,5 @@ We also started to look at assignment 2 this week, our House of Leaves virtual r
 <img src="pooka.jpg">
 
 Andy showed us a couple of examples of narratives told through digital worlds, including [this one](https://www.youtube.com/watch?v=Tn9wVdaMOlw) called The Pooka which is equally terrifying and nostalgic for me having played a lot of sims as a child.
+
+### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK1/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK3/)
