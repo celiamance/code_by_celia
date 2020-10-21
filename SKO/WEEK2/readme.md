@@ -73,6 +73,7 @@ function keyPressed (){
 }
 ```
 
-For our second processing tutorial in week 2 we made this 'nearly spirograph' to explore rotation and translating fuctions. This was a great intoduction to learn how to animate sketches rather than just creating static shapes.
+For our second processing tutorial in week 2 we made this ['nearly spirograph'](https://celiamance.github.io/codewords/SKO/WEEK2/nearly_spirograph/) to explore rotation and translating fuctions. This was a great intoduction to learn how to animate sketches rather than just creating static shapes.
+
 
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK1/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK3/)
