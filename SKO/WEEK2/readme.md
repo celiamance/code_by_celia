@@ -13,3 +13,7 @@ To commence our second week we started by learning about and researching modular
 <img src="clubpenguin.jpg">
 
 We also started to look at assignment 2 this week, our House of Leaves virtual rereading. My group, Ruby, Hamish, Fergus, and I, decided to select the virtual world of Club Penguin. It will be interesting to see how we are about to link the slightly erratic narrative and disorienting structure of House of Leaves with a game as innocent as Club Penguin.
+
+<img src="pooka.jpg">
+
+Andy showed us a couple of examples of narratives told through digital worlds, including [this one](https://www.youtube.com/watch?v=Tn9wVdaMOlw) called The Pooka which is equally terrifying and nostalgic for me having played a lot of sims as a child.
