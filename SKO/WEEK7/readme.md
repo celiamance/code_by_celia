@@ -21,6 +21,12 @@ Watch an interview with the creaters [here](https://vimeo.com/104981357).
 
 [‘Networked Optimization’](https://silviolorusso.com/work/networked-optimization/) by Silvio Lorusso & Sebastian Schmieg showcases ‘crowdsourced versions of popular self-help books’. The only text visible on the page ‘is the so-called popular highlights – the passages that were underlined by many Kindle users – together with the amount of highlighters. Each time a passage is underlined, it is automatically stored in Amazon’s data centers.’ Only the most commonly valuable and impactful text remains creating a ‘highlight-reel’ of the most poignant parts of each book. I find this work to be fascinating, especially because it employs existing data and contains it in a physical format.
 
+
+## + sharing ideas
+
+In small groups we presented our paper prototypes for our major projects. I was in a group with Win and Hamish and it was really good to see what they had come up with. This kind of collaborative feedback from fellow students is always helpful and it's so nice to actually see people's faces in the class haha. They both provided me with some great advice about how to develop the ideas I had started with and gave me way more confidence that the ideas I had come up with had real potential. 
+
+
 ## + sketch of the week
 
 <img src="circlesound.jpg">
@@ -87,6 +93,30 @@ function keyPressed() {
 
 Following Karen's tutorial about adding in the p5.js sound library, I watched some more The Coding Train video to cement my knowledge.
 I followed [this tutorial](https://www.youtube.com/watch?v=h_aTgOl9J5I&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=10&ab_channel=TheCodingTrain) and made my [own radial volume graph](https://celiamance.github.io/codewords/SKO/WEEK7/testingsongcircle) to a jazz song. The outcome was stangely hypnotic and calming - I really enjoyed making it!
+
+
+## + university cuts
+
+```
+Karen's Code
+#include <australianUniversities.h>
+#include <HEstaff.h>
+#include <NTEU.h>
+#include <students.h> 
+
+void fightTheCuts() {
+  while (cuts > 0) {
+    resist ();
+    print (“Fight The Cuts!”);
+    protest++; 
+    discuss();
+  }
+  print (“university belongs to all Australians”);
+} 
+```
+Taken from [Bridie O'Toole's github](https://github.com/bridieotoole/codewords/blob/master/week_07/readme.md)
+
+At the end of the session we spoke about the severe cuts staff are facing at RMIT. This chat really helped me understand the severity of the issue with 35 librarians being terminated and entire faculties gone. I was somewhat previously aware of the issue and had incidentally had a chat with my photography teacher about it the week before, but hearing these numbers was a shock. Not only is it devastating for the staff, but it also provides a threat to the quality of education that we as students receive - many opportunities will no longer be available once we return to physical classes, including the make-a-space.
 
 
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK6/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK8/)
