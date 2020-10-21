@@ -2,6 +2,8 @@
 
 ## + virtual melbourne
 
+<img src="minimelbourne.png">
+
 We started our first class in the world of Minecraft. This was a great, fun activity to allow every student to virtually interact in an engaging way beyond the regular online learning experience.
 
 ## + introduction to processing
