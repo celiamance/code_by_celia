@@ -30,7 +30,7 @@ ellipse (mouseX,mouseY,100,100); //centre x, centre y, width, height
 }
 ```
 
-One of our first in class tutorials was this fun rainbow circles sketch!
+One of our first in class tutorials was this fun [rainbow circles sketch](https://celiamance.github.io/codewords/SKO/WEEK1/rainbowcircles/)!
 
 <img src="letterc.jpg">
 
