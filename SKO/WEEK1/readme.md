@@ -56,4 +56,4 @@ quad (125,175,175,175,275,350,225,350);
 
 Our first introduction to coding involved becoming acquainted with Processing and p5.js. As someone who had no previous coding experience, I found this tutorial easy to follow and replicate myself, which definitely helped to ease some of the apprehension I felt going into the course. We were asked to attempt the software ourselves and recreate our own initials. I really enjoyed the challenges of this task and the immense satisfaction I felt when I finally succeeded. For my [C](https://celiamance.github.io/codewords/SKO/WEEK1/letter_C) and [M](https://celiamance.github.io/codewords/SKO/WEEK1/letter_M), I really enjoyed using the mouseY and mouseX functions to make the fill change fluidly as you moved your mouse. If I were to do this task again, I might try playing with more abstract letterforms or more functions including the mouseY and mouseX commands to change the size or shape the letter.
 
-[[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK2/)
+### [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK2/)
