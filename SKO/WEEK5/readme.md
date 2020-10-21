@@ -3,6 +3,7 @@
 ## + assignment 2 rereadings
 
 [Our group outcome](https://youtu.be/hxVLtIr6eNs)
+
 During todays class we shared the outcomes of our group assignment, rereading The House of Leaves. Everyone had produced such amazing work and really embraced all the elements their virual world had to offer. 
 
 ## + major project research
