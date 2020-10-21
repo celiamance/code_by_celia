@@ -40,6 +40,13 @@ text(myText, int(windowWidth/8), windowHeight/8, int(windowWidth/4*3), windowHei
 ```
 During this week’s power hour of code with Karen we learnt how to print blocks of text in this sketch. This will be a really helpful tool for creating future sketches to amplify the ‘words’ section of ‘codewords’ and to integrate more of our selected texts in our major project.
 
+
+## + random function
+
+<img src="letters.jpg">
+
+This week was a busy coding week! We also created [this sketch](https://celiamance.github.io/codewords/SKO/WEEK6/whiteboard_letters/) in class using the random function to make different letters appear in varying sizes across the canvas. Karen also added in a neat white brush tool like a whiteboard to erase some of the letters that were popping up!
+
 ## + sketch of the week
 
 <img src="torus.jpg">
