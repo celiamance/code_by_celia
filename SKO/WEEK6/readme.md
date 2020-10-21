@@ -10,4 +10,4 @@ By reading the other N. Katherine Hayles texts, I found that ‘The Time of Digi
 
 <img src="torus.jpg">
 
-While looking through the [p5.js examples page](https://p5js.org/examples/), I came across [this example](https://p5js.org/examples/3d-geometries.html) using WEBGL. I really liked the outcome and had a bit of a play with some of the functions. I particularly liked the torus shape and made a couple of simple adjustments to make [this sketch](https://celiamance.github.io/codewords/SKO/WEEK6/torus3d/). While This particular function may not end up being related to my major assignment, I had fun nonetheless!
+While looking through the [p5.js examples page](https://p5js.org/examples/), I came across [this example](https://p5js.org/examples/3d-geometries.html) using WEBGL. I really liked the outcome and had a bit of a play with some of the functions. I particularly liked the torus shape and made a couple of simple adjustments to make [this sketch](https://celiamance.github.io/codewords/SKO/WEEK6/torus3d/). While this particular function may not end up being related to my major assignment, I had fun nonetheless!
