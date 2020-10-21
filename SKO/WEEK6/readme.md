@@ -1,5 +1,11 @@
 # code+words / week 6
 
+## + paper prototypes
+
+<img src="tetris.GIF">
+
+During this weeks class we were introduced to paper prototyping and started creating a paper model of a retro game - my group and I chose to do tetris! This is a great intermediate step before having a go at constructing code. It allows you to visualise how your idea will function and provides an easily accessible way to describe it to others alongside a physical representation. While our ideas seem obvious and realised in our minds it is far harder for others to understand what you mean based on an intangible thought.
+
 ## + major project research 2
 
 While I had enjoyed parts of the various readings that I had been through, I was still unsure about making a definitive choice and identifying a specific section from a text to use. I read ‘Technotexts’ by N. Katherine Hayles and enjoyed it, so I read all of the other N. Katherine Hayles texts to see if there were others that expressed similar sentiments in a more elaborated form. Some parts I liked from ‘Technotexts’ included how Hayles examined how ‘the physical form of the literary artifact [will] always affect what the words (and other semiotic components) mean’. This related to the ideas I had thought of last week while researching ‘The Readers Project’ and made me consider the specific elements of the way you design text to alter one’s interpretation. 
@@ -10,4 +16,24 @@ By reading the other N. Katherine Hayles texts, I found that ‘The Time of Digi
 
 <img src="torus.jpg">
 
+```
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+}
+
+function draw() {
+  background(250);
+  normalMaterial();
+  push();
+  rotateZ(frameCount * 0.005);
+  rotateX(frameCount * 0.005);
+  rotateY(frameCount * 0.005);
+  torus(200, 100, 5, 8);
+  pop();
+}
+```
+
 While looking through the [p5.js examples page](https://p5js.org/examples/), I came across [this example](https://p5js.org/examples/3d-geometries.html) using WEBGL. I really liked the outcome and had a bit of a play with some of the functions. I particularly liked the torus shape and made a couple of simple adjustments to make [this sketch](https://celiamance.github.io/codewords/SKO/WEEK6/torus3d/). While this particular function may not end up being related to my major assignment, I had fun nonetheless!
+
+
+### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK5/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK7/)
