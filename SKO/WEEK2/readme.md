@@ -7,6 +7,8 @@
 
 To commence our second week we started by learning about and researching modular typography. One example that I found was by [Kelvin Ha](https://kelvinha.com/Modular-Type). He describes this ‘modular type project’ as a concept ‘based on illusion and negative space’ inspired by ‘the theory and practice of Japanese sculptor, medallist, graphic artist and poster designer, Shigeo Fukuda’. Fukuda’s influence is evident in Ha’s manipulation of form and colour to distort perspective as ‘the alphabet can be 2D or 3D depending on the viewer’s’ optical emphasis.
 
+You can find the other examples the class found on [these slides](https://docs.google.com/presentation/d/1N2hAFp6si7UsVuPj1oMQ21_HHF858NbXZna0YQxOQio/edit#slide=id.p).
+
 
 ## + starting assignment 2
 
