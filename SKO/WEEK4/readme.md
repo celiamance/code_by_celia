@@ -12,7 +12,7 @@ To begin our fourth week of class we started with another power hour of code wit
 
 <img src="clubpenguinedit.jpg">
 
-Out group also met up via FaceTime quite a few times throughout the past few weeks to organise and record our Club Penguin rereading. We also worked on editing our allocated sections of the video. Although group assignments can be difficult to coordinate this was a really great way of working collaboratively with class members and getting to know each other that has been lost through online uni. 
+Out group also met up via FaceTime quite a few times throughout the past few weeks to organise and record our Club Penguin rereading. We also worked on editing our allocated sections of the video. Although group assignments can be difficult to coordinate this was a really great way of working collaboratively with class members and getting to know each other that has been lost through online uni. We found it quite difficult to cut down the text enough to fit into the 5 minute time limit because a lot happened in our House of Leaves chapter.
 
 ## + sketch of the week
 
