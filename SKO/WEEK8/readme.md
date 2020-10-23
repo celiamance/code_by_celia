@@ -95,4 +95,13 @@ class Wiggle {
 During this week's power hour of code, Karen took us through a tutorial [learning class](https://celiamance.github.io/codewords/SKO/WEEK8/learningclass/)! Classes are used to apply the same characteristics to one or more objects, like a template, meaning that creating complicated sketches with multiple elements is more streamlined and easier to adapt overall elements. This was a really fun tutorial and introduced a perfect baseline to create infinite ideas.
 
 
+## + datamoshing
+
+<img src="datamoshing.jpg">
+
+This week we also spoke briefly about DataMoshing. It is a technique that I had never heard of before that produces really cool results, like in [this Kanye music video](https://www.youtube.com/watch?v=wMH0e8kIZtE). DataMoshing is defined as 'a technique of damaging video clips to create a glitch effect wherein frames that should change don't. It's most noticeable between cuts and across motion.' [Source](https://www.rocketstock.com/blog/datamoshing-learn-create-viral-effect/) 
+
+Coincidentally, in my photography lecture this week on Friday they mentioned the trend of glitch photography and video, so I already had some insight on how this is created!
+
+
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK7/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK9/)
