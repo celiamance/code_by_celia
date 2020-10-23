@@ -1,5 +1,5 @@
-# welcome to my repo
-## for code+words
+# Welcome to my SKO for CODE+WORDS
+## by Celia Mance
 
 ## final reflection
 
