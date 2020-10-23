@@ -151,4 +151,20 @@ With help from Ray we got the typing effect to work properly in [this sketch](ht
 I'm now trying to work on adding a right side margin which is proving harder than I initally thought, and imputting the random function, which also doesn't seem to work easily! I changed to my new idea both in hopes of creating a more text oriented outcome and also a more achievable outcome, but I'm learning that often things are far more complicated than you expect in code!!
 
 
+## + open processing
+
+<img src="processing.jpg">
+
+I also spent a bit of time this week looking through all of the amazing examples of creative coding on [Open Processing](https://www.openprocessing.org/). It's a great resource because not only is there an abundance of examples, but you can actually see the code behind them so you learn more about how these sketches were created.
+
+Here are some of my favourites:
+- https://www.openprocessing.org/sketch/731165 (A script tool that records and stores the data of your typing)
+- https://www.openprocessing.org/sketch/886978 (Stacked kinetic type that animates in a wave pattern with height influenced by mouse position)
+- https://www.openprocessing.org/sketch/889368 (Words that spin and rotate around in a 3D space, that look almost like snow flurries and is slightly motion sickness inducing!)
+- https://www.openprocessing.org/sketch/934940 (Text that rotates around a cylindrical shape in alternating directions)
+- https://www.openprocessing.org/sketch/104881 (Text that floats away from its original legible space and bounces against the edges of the sketch)
+- https://www.openprocessing.org/sketch/697891 (Text wrapped around a constantly slightly morphing cirle and follows mouse direction)
+- https://www.openprocessing.org/sketch/760047 (Text that prints following mouse movement with text size dependent on mouse speed)
+
+
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK8/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK10/)
