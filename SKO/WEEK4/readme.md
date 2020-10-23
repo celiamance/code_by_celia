@@ -17,7 +17,7 @@ Out group also met up via FaceTime quite a few times throughout the past few wee
 
 ## + sketch of the week
 
-<img src="shadow.jpg">
+<img src="shadow2">
 
 To practice uploading and using a font in Processing, I made a variation of an early sketch, rainbow circles. [This version](https://celiamance.github.io/codewords/SKO/WEEK4/shadow) has the word 'shadow' using the Glyph World typeface - Desert, following your mouse. I used a slightly transparent background so the words slowly fade and also added in a clear command under a key pressed function.
 
