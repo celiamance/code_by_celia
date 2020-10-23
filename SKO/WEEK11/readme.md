@@ -1,5 +1,11 @@
 # code+words / week 11
 
+## + interesting accidents
+
+<img src="glitch.jpg">
+
+During class this week [Bridie](https://github.com/bridieotoole/codewords) and I spent a bit of time in a breakout room together discussing our sketches, thinking of ideas about how we could enhance what we had within our skillset and just messing around with each other’s code to see if we could make it work! Somehow Bridie ended up creating [this](https://celiamance.github.io/codewords/SKO/WEEK11/bridieglitch/) super interesting glitchy outcome that is actually super interesting. The text flickers and overlaps making it increasingly hard to read until it ultimately just looks like a jumble of letters! It has a slightly anxiety inducing feeling but, maybe is something I could experiment with on a less intense level – thanks Bridie!!
+
 ## + styling choices
 
 <img src="font.jpg">
