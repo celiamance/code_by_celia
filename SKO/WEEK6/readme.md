@@ -2,7 +2,7 @@
 
 ## + paper prototypes
 
-<img src="tetris.GIF">
+<img src="tetris2.GIF">
 
 During this weeks class we were introduced to paper prototyping and started creating a paper model of a retro game - my group and I chose to do tetris! This is a great intermediate step before having a go at constructing code. It allows you to visualise how your idea will function and provides an easily accessible way to describe it to others alongside a physical representation. While our ideas seem obvious and realised in our minds it is far harder for others to understand what you mean based on an intangible thought.
 
@@ -27,6 +27,7 @@ END
 ```
 
 We worked on creating pseudocode that will eventually link to the paper prototype of our major project, but first we had some fun creating them for activities we do on a daily basis!
+
 
 ## + major project research 2
 
