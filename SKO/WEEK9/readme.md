@@ -167,4 +167,11 @@ Here are some of my favourites:
 - https://www.openprocessing.org/sketch/760047 (Text that prints following mouse movement with text size dependent on mouse speed)
 
 
+## + generative design
+
+<img src="generative.jpg">
+
+During class this week another student shared this really interesting compilation of [generative design](http://www.generative-gestaltung.de/2/). Like Open Processing, the code is viewable through the p5.js web editor so you can actually learn how these complex sketches were created. However, there is a huge licensing disclaimer at the beginning of the code, perhaps due to the fact that the designs are also published in a book. This brought into question the ethical ramifications of putting restrictions on work created through an open source software, especially if the code is largely formatted based on existing inbuilt functions. Does this contradict the generally accepted open source code of conduct even if the code is shared, but just can’t be copied?
+
+
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK8/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK10/)
