@@ -6,7 +6,15 @@
 
 ## + final additions
 
-Before our final submission, to further enhance my existing sketch I added in some sound and make the randomised text flickering. I recorded a typing sound myself as I wasn’t really happy with the free ones online! I just used the voice memo app on my phone and our old mechanical keyboard for those satisfying clicks. I wanted to make the sound a bit grittier, so I found an electrical buzzing sound online and played both of them at once and I think they paired quite well. The flickering effect accentuated the unpredictable random  text that sometimes didn't make sense! I also used mapping to make the text size, space size, leading and margins adaptable to different phone or computer screen sizes.
+Before our final submission, to further enhance my existing sketch I added in some sound and make the randomised text flickering. I recorded a typing sound myself as I wasn’t really happy with the free ones online! I just used the voice memo app on my phone and our old mechanical keyboard for those satisfying clicks. I wanted to make the sound a bit grittier, so I found an electrical buzzing sound online and played both of them at once and I think they paired quite well. The flickering effect accentuated the unpredictable random  text that sometimes didn't make sense! I also used mapping to make the text size, space size, leading and margins adaptable to different phone or computer screen sizes, even as you resize the window in real time.
+
+How I tested my final before the showcase:
+- my phone
+- my sister's phone (because hers is bigger)
+- my laptop
+- my dad's desktop computer
+
+Thankfully the text translated well to all of the formats! However, through this testing I discovered that the mousePressed function doesn't work on touch screen devices, so I added in a touchStarted function so the sound would still work.
 
 ```
 // typing function initally achieved with help from Ray
