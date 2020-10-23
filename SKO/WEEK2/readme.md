@@ -75,7 +75,14 @@ function keyPressed (){
 }
 ```
 
-For our second processing tutorial in week 2 we made this ['nearly spirograph'](https://celiamance.github.io/codewords/SKO/WEEK2/nearly_spirograph/) to explore rotation and translating fuctions. This was a great intoduction to learn how to animate sketches rather than just creating static shapes.
+For our second processing tutorial in week 2 we made this ['nearly spirograph'](https://celiamance.github.io/codewords/SKO/WEEK2/nearly_spirograph/) to explore rotation and translating fuctions. This was the perfect intoduction to learn how to animate sketches rather than just creating static shapes.
+
+
+## + github
+
+We were also introduced to the weird and wonderful world of GitHub this week - a platform I had actually never heard of! Initially, I found it quite difficult to navigate and didn't understand how to use markdown at all, but the information from [this page](https://guides.github.com/features/mastering-markdown/) and Andy's tutorials were really helpful to help me to get started.
+
+Like in first year using Tumblr, GitHub will be a great resource to be able to look at other people's progress and be inspired by the projects they find and document. I think this public facing version of an SKO is really beneficial to be able to learn from other students' work and the behind the scenes progress that you would never normally see, especially given the current online delivery of uni.
 
 
 ### [[Previous Week]](https://celiamance.github.io/codewords/SKO/WEEK1/) - [[Next Week]](https://celiamance.github.io/codewords/SKO/WEEK3/)
