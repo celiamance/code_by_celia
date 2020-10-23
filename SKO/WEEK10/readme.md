@@ -55,6 +55,11 @@ else {
 After struggling some more over the past week with the random words and constraining the text along the x axis, Karen helped me (again, sorry) to make it work - [here is the sketch](https://celiamance.github.io/codewords/SKO/WEEK9/randomtypewords2/)! She added in a shuffle function and I adapted her [sample sketch on split](https://simandy.github.io/codewords/processing/TextToPoints_Para_appearOverTime/) to have the same appearing text that is constrained by adaptive window boundaries.
 
 
+## + font forge
+
+While discussing the design possibilities for our sketch and looking at the amazing language inclusivity of [Google Noto Fonts](https://www.google.com/get/noto/), Andy also mentioned [Font Forge](https://fontforge.org/en-US/), an open source font editor that you can use to create your own typefaces as an alternative to the expensive software out there. I have always been interested in the process creating my own font, so maybe this is a personal project I will undertake over the summer holidays. And like Andy and Karen said, typefaces are an integral element of design and if you have no experience in creating your own you cannot have a fully self-sufficient practice or even appreciate the intricacies of how each letterform is constructed. Similar to designers having no understanding of code and labelling it as a ‘separate’ field even though both are so intertwined.
+
+
 ## + creative coding
 
 <img src="inspo.jpg">
