@@ -1,7 +1,7 @@
 # Welcome to my SKO for CODE+WORDS
-## by Celia Mance
+## By Celia Mance
 
-## final reflection
+## + final reflection
 
 Looking back over the past 13 weeks, I have undeniably made significant progress in my coding knowledge, which started from nothing at all. It has definitely made me appreciate the skill and dedication it takes to build a proficiency in code. I don’t think that I will be a self-proclaimed coder anytime soon but having an established understanding of code alongside improved skills in patience and logic will give me a new perspective on how I approach future projects. I hope that I will find more ways to incorporate coding into my work and continue to build on the skills I have learnt this semester.
 
@@ -10,7 +10,7 @@ Unexpectedly, some of my favourite parts of the class were observing the way And
 I think the way this studio was taught provided a perfect balance between practical coding skills, aesthetic design choices and critical evaluation of design theory or of our own work. This balance was struck through the team teaching of Andy and Karen employing their individual skills in the lessons and feedback provided. So, not only have I come away with an understanding of code, but also enhanced awareness of what exists in new media design theory and how to utilise multiple design skills to produce an engaging, cohesive outcome.
 
 
-## contents
+## + contents
 
 I have organised my SKO in a weekly format encompassing my code development, inspiration discovered and class discussions - I hope you enjoy seeing the progress!
 
