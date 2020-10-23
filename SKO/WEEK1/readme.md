@@ -1,10 +1,18 @@
-# code+words / week 1 
+# code+words / week 1
+
+## + introductions
+
+<img src="who.jpg">
+
+First lesson in the codewords studio!! Started with some general introductions about who Andy and Karen are, their experience in the field and why we should, or should not trust them! Their unique introductions definitely reference their personalities and distinctive teaching style that I am already somewhat familiar with from first year. I can already tell that this will be taught unlike any studio I have undertaken thus far, further shown through their really fun multiscreen Collaborate Ultra setup that is far more engaging that seeing your lecturer’s face amplified 5x the normal size on the screen. They also gave us a brief overview of our assignments and what to expect form the course.
+
 
 ## + virtual melbourne
 
 <img src="minimelbourne.png">
 
-We started our first class in the world of Minecraft. This was a great, fun activity to allow every student to virtually interact in an engaging way beyond the regular online learning experience.
+We started our first class in the world of Minecraft. This was a great activity to allow every student to virtually interact in an engaging way beyond the regular online learning experience. My laptop struggled a bit to run both Collaborate Ultra and Minecraft and started making some racecar noises from the fan going into overdrive, but all was well!
+
 
 ## + introduction to processing
 
