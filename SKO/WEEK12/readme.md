@@ -10,7 +10,7 @@ Before our final submission, to further enhance my existing sketch I added in so
 
 How I tested my final before the showcase:
 - my phone
-- my sister's phone (because her's is bigger)
+- my sister's phone (because hers is bigger)
 - my laptop
 - my dad's desktop computer
 
