@@ -1,5 +1,7 @@
 # code+words / week 12
 
+<img src="gif640x640">
+
 [Final outcome](https://celiamance.github.io/codewords/SKO/WEEK12/splitScreen5/)
 
 [Final showcase!](https://simandy.github.io/codewords/)
