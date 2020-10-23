@@ -26,6 +26,8 @@ Watch an interview with the creaters [here](https://vimeo.com/104981357).
 
 In small groups we presented our paper prototypes for our major projects. I was in a group with Win and Hamish and it was really good to see what they had come up with. This kind of collaborative feedback from fellow students is always helpful and it's so nice to actually see people's faces in the class haha. They both provided me with some great advice about how to develop the ideas I had started with and gave me way more confidence that the ideas I had come up with had real potential. 
 
+We shared our ideas in [this google doc](https://docs.google.com/presentation/d/1dX_ZDAdoo_U-JSXTtUxhwClVBWJZjEu7X48fx6t4-Zc/edit#slide=id.g980079f83c_10_10) and explained them briefly to the class. I always find this sharing super interesting to see what everyone else has been working on but find it quite stressful myself and I never feel like I adequately explain my ideas in the moment – it is definitely a skill I need to work on still. Although, I do feel like the online platform feels like a more pressured environment (for me personally) without seeing the reactions of your classmates, especially paired with technical difficulties hearing people or accidentally speaking over someone. But, doing this consistently in class is making me more used to the process.
+
 
 ## + sketch of the week
 
