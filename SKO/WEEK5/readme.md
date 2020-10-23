@@ -1,10 +1,12 @@
 # code+words / week 5
 
-## + assignment 2 rereadings
+## + assignment 2 rereadings and reflection
 
 [Our group outcome](https://youtu.be/hxVLtIr6eNs)
 
-During todays class we shared the outcomes of our group assignment, rereading The House of Leaves. Everyone had produced such amazing work and really embraced all the elements their virual world had to offer. 
+During today’s class we shared the outcomes of our group assignment, rereading The House of Leaves. Everyone had produced such amazing work and really embraced all the elements their virtual world had to offer. I really loved the outcome of the Second Life group. The platform has just the right blend of realism and fantasy to create a strange dichotomy that paired perfectly with the novel as an example of ergodic literature.
+
+When we first approached this task, my group and I initially struggled to link the slightly erratic narrative and disorienting structure of House of Leaves with a game as innocent as Club Penguin. However, we were able to identify key settings and feelings evident in our chapter that could be represented in the virtual world. To compensate for the limited customisation in the game, especially to represent specific events in the novel, we decided to use the minigames in Club Penguin to further communicate various themes and emotions occurring in the text. Another limitation that we overcame was the inability to film from different camera angles given the stationary perspective of the game. We used zooming and panning effects in post-production to combat this. We also wanted to clearly differentiate between the perspectives of Johnny Truant and Zampano, achieved by using different fonts in the book. We decided to distinguish them by switching between colour and black and white footage, as well as using different text to speech narrators for their voice overs.
 
 ## + major project research
 
