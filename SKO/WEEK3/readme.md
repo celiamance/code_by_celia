@@ -14,7 +14,7 @@ Having studied My Country in primary school, I remember it fondly, but it defini
 
 ## + assignment 2 progress
 
-We continued planning our second assignment, Rereadings in Club Penguin using [this google doc](https://docs.google.com/document/d/1DJS7c56zpp8Y9cg9a4pRmUciNNnArXs8-nFGbDVTeqk/edit) to collate our ideas and work on scripting the dialogue/ scenes.
+We continued planning our second assignment, Rereadings in Club Penguin using [this google doc](https://docs.google.com/document/d/1DJS7c56zpp8Y9cg9a4pRmUciNNnArXs8-nFGbDVTeqk/edit) to collate our ideas and work on scripting the dialogue/ scenes. We logged into the game and rediscovered all the nostalgic treasures, including fun multiplayer games, interesting hair and clothes and catalogues of igloo furniture.
 
 
 ## + sketch of the week
